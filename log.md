@@ -1,16 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: Dec 28, 2017 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Did about 4 hours on freecodecamp.  
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I already had some ideas on HTML and now Im getting the hang of CSS.  I dont know if I should continue on udemy or focus solely on freecode.  I registered djalmo.com and djalmo.net just for funesies.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** http://www.djalmo.com **it's trash**
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: Dec 29, 2017 
+
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
