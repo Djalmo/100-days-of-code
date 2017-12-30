@@ -11,11 +11,11 @@
 ### Day 1: Dec 29, 2017 
 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started working on the tribute page project from freecodecamp.  Signed up for a couple of more sites, and github to keep track.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Struggled a bit with centering the image on the tribute page which kind of derailed me.  It had me sign up for a code website which had some options that were a bit confusing.  I'm 90% done with tribute page and have to clean it up, hopefully will do it tomorrow.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: https://codepen.io/djalmo/full/ZvKQGj
 
 
 ### Day 1: June 27, Monday
