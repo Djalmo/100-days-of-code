@@ -18,12 +18,21 @@
 **Link(s) to work**: https://codepen.io/djalmo/full/ZvKQGj
 
 
-### Day 1: June 27, Monday
+### Day 1: Dec 30, 2017 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today's Progress**: Finished working on tribute page, started working on profile page.  
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts**: A bit daunted by what I dont know.  Signed up for a few more sites.  
+
+**Link(s) to work**: 
+
+
+### Day 1: Dec 31, 2017 
+
+
+**Today's Progress**: Did some tutorials on GIT, installed Linux on laptop 
+
+**Thoughts**: Took a small break from programming.  Gotta get back on the horse tomorrow.  Many distractions, going to have to really focus to make this work.  Think pomadoro (sp?) timers will be the way to go.
+
+**Link(s) to work**: 
